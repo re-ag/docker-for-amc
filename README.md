@@ -23,6 +23,6 @@ GPU와 호환성이 있는 CUDA version에 맞는 원하는 version Pytorch Dock
 
 ```
 ./build.sh 1.9.0-cuda11.1-cudnn8-devel
-./run.sh 1.9.0-cuda11.1-cudnn8-devel
+./run.sh local-1.9.0-cuda11.1-cudnn8-devel
 ```
 
